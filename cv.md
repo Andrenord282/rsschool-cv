@@ -22,6 +22,16 @@ problem solutions.
 * Git
 ---
 ## EXPERIENCE
+### HTML/CSS DEVELOPER
+*STARTEAM - https://starteam.io*
+**February 2022 - June 2024**
+* One-page website development and layout: HTML, CSS, SCSS,
+JavaScript.
+* HTML email development
+* Responsive/adaptive design
+* Collaborate with web developers and web designers to work on
+corporate objectives
+* Work to optimize internal work processes
 ---
 ## LANGUAGES:
 Russian - Native
