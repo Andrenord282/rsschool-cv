@@ -47,6 +47,28 @@ corporate objectives
 * Work to optimize internal work processes
 
 ---
+## CODE EXAMPLES
+
+```
+constconst arr = [[1, 8],[2, 1, 6],[1, 1],[5, 4]];
+
+const arrIndexValue = [];
+
+arr.forEach((arrItem) => {
+    const sum = arrItem.reduce((acc, value) => {
+        return acc + value;
+    }, 0);
+
+    if (sum !== 9) return;
+    arrIndexValue.push(arrItem[0]);
+});
+
+const sumAllValue = arrIndexValue.reduce((acc, value) => {
+    return acc + value;
+}, 0);
+``` 
+
+--
 ## EDUCATION
 
 ### Beginner React developer
